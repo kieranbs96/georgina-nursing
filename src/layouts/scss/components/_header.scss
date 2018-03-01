@@ -1,0 +1,51 @@
+.header {
+  background:$color-rcn-red;
+  padding: 1rem 0;
+
+  &__heading {
+    color: #fff;
+    margin: 0;
+
+    a {
+      color: #fff;
+      text-decoration: none;
+      font-size:2.5rem;
+    }
+  }
+
+  .container {
+    max-width: 960px;
+    display:flex;
+    flex-direction: row;
+    align-items:center;
+    justify-content: space-between;
+  }
+}
+
+.nav {
+  &__list {
+    list-style: none;
+    margin:0;
+    padding:0;
+  }
+
+  &__item {
+    display:inline-block;
+    margin: 0 .5rem;
+  }
+
+  &__link {
+    color: #fff;
+    text-decoration: none;
+  }
+}
+
+hr.decoration {
+  margin: 0;
+  border-top: 10px solid $color-rcn-blue;
+}
+
+.decoration.bottom {
+  border-top: none;
+  border-bottom: 10px solid $color-rcn-blue;
+}

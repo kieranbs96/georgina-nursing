@@ -1,0 +1,13 @@
+*, *::before, *::after {
+  box-sizing:inherit;
+  font-size:inherit;
+}
+
+html, body {
+  box-sizing: border-box;
+}
+
+body {
+  min-height: 100vh;
+  background: $color-main;
+}
