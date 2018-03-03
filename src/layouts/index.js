@@ -4,6 +4,8 @@ import Helmet from 'react-helmet';
 
 import Header from '../components/Header';
 import Footer from '../components/Footer';
+import Subfooter from '../components/Subfooter';
+
 import './css/normalize.css';
 import './scss/main.scss';
 
@@ -25,6 +27,7 @@ const TemplateWrapper = ({ children }) => (
     <section className="content h-center">{children()}</section>
     <hr className="decoration bottom" />
     <Footer />
+    <Subfooter />
   </div>
 );
 
