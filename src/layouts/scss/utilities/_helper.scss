@@ -3,6 +3,22 @@
   margin-right: auto;
 }
 
+.container {
+    max-width: 1190px;
+    display:flex;
+    flex-direction: row;
+}
+
+.h-padding {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+
+    @include desktop {
+        padding-left: .5rem;
+        padding-right: .5rem;
+    }
+}
+
 
 /* ==========================================================================
    Helper classes

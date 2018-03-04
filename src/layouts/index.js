@@ -24,7 +24,7 @@ const TemplateWrapper = ({ children }) => (
     />
     <Header />
     <hr className="decoration" />
-    <section className="content h-center">{children()}</section>
+    <section className="content h-padding h-center">{children()}</section>
     <hr className="decoration bottom" />
     <Footer />
     <Subfooter />

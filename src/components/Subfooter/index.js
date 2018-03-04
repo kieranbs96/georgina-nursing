@@ -3,7 +3,7 @@ import Link from 'gatsby-link';
 
 const Subfooter = () => (
   <div className="subfooter">
-    <div>
+    <div className="container h-padding h-center">
       <p>
         <Link target="_blank" to="//www.kbsdev.io">
           Developed by Kieran Smith (kbsdev)

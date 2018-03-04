@@ -3,7 +3,7 @@ import Link from 'gatsby-link';
 
 const Header = () => (
   <header className="header">
-    <div className="container h-center">
+    <div className="container h-padding h-center">
       <h2 className="header__heading">
         <Link to="/">Georgina Cross</Link>
       </h2>

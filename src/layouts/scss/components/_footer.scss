@@ -1,8 +1,48 @@
 .footer {
   background: #333;
-  padding: 10rem 0;
+  padding: 6rem 0;
+  color: #fff;
+
+  .container {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
 
   h3 {
+    margin: 0 0 1rem 0;
+    font-size: 2rem;
+    text-align:center;
+  }
+
+  &__list {
+    list-style:none;
     margin: 0;
+    padding: 0;
+    &-item {
+      text-align: center;
+
+      &:not(:last-child) {
+        margin-bottom:.5rem;
+      }
+
+      a {
+        color: #fff;
+        text-decoration: none;
+      }
+    }
+  }
+
+
+}
+
+.subfooter {
+  p {
+    margin: .7rem 0;
+  }
+
+  a {
+    text-decoration: none;
+    color: #333;
   }
 }

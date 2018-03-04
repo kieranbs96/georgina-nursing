@@ -1,11 +1,42 @@
 .content {
-  max-width: 960px;
+  max-width: 1190px;
   padding-bottom: 6rem;
   min-height: 70rem;
+
+  .cpd {
+
+    h2 {
+      margin-top: 4rem;
+      margin-bottom: 1rem;
+    }
+  }
+
+  table {
+    &:not(:last-child) {
+      width: 100%;
+    }
+
+    border-collapse: collapse;
+
+    &, th, td {
+      border: 1px solid black;
+    }
+
+    th:not(:first-child), td:not(:first-child) {
+      padding-left: 1rem;
+    }
+  }
 }
 
 .carousel {
   position:relative;
+
+  &__dot-group {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: .5rem;
+  }
 
 
   &__buttons > * {
