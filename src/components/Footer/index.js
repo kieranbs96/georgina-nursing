@@ -3,7 +3,7 @@ import Link from 'gatsby-link';
 
 import FontAwesomeIcon from '@fortawesome/react-fontawesome';
 import brands from '@fortawesome/fontawesome-free-brands';
-import faLinkedIn from '@fortawesome/fontawesome-free-brands/faLinkedIn';
+import faLinkedIn from '@fortawesome/fontawesome-free-brands/faLinkedin';
 
 const Footer = () => (
   <footer className="footer">
