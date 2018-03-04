@@ -30,6 +30,29 @@
     }
   }
 
+  &__full-article {
+    display: flex;
+    flex-direction: row;
+
+    &-right {
+      flex: 0 0 40%;
+
+      img {
+        margin-bottom: 1.5rem !important;
+      }
+    }
+  &-image-caption {
+    text-align: center;
+    display: block;
+    width: 100%;
+  }
+
+  &-left {
+      flex: 1;
+  }
+
+  }
+
   &__preview {
     &-content {
       display:flex;

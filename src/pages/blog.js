@@ -22,9 +22,9 @@ const Blog = () => (
           </div>
           <div className="blog__preview-right">
             <picture>
-              <img src={ScarletFeverImage} alt="Scarlet Fever Example" className="blog__preview-image" />
+              <img src={ScarletFeverImage} alt="Child with Scarlet Fever Symptoms" className="blog__preview-image" />
               <caption className="blog__preview-image-caption">
-                Figure 1 Scarlet Fever <sup>[2]</sup> https://en.wikipedia.org/wiki/Scarlet_fever
+                Figure 1 Scarlet Fever <sup>[1]</sup> https://en.wikipedia.org/wiki/Scarlet_fever
               </caption>
             </picture>
           </div>
