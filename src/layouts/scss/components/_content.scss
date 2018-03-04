@@ -22,8 +22,13 @@
       border: 1px solid black;
     }
 
-    th:not(:first-child), td:not(:first-child) {
+    th, td {
       padding-left: 1rem;
+      padding-right: 1rem;
+      font-size: 1.4rem;
+    }
+
+    td {
     }
   }
 }

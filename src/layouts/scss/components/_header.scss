@@ -2,6 +2,13 @@
   background:$color-rcn-red;
   padding: 1rem 0;
 
+  a {
+    transition: all .3s;
+    &:hover {
+      color: $color-main;
+    }
+  }
+
   &__heading {
     color: #fff;
     margin: 0;

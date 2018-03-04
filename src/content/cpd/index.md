@@ -8,11 +8,11 @@ title: 'Continuing Professional Development (CPD)'
 
 ## Mandatory Training Log
 
-| Topic                            | Provider | Participatory Hours | E-Learning Hours | Date            | How often is renewal | Status      |
-| :------------------------------- | :------- | :------------------ | :--------------- | :-------------- | :------------------- | :---------- |
-| Advanced Paediatric Life Support | A+A      | 3                   | 3.5              | 19/01/2018      | Yearly               | Up to date  |
-| Moving and Handling              | TCR      | 3                   | 3.5              | 19/01/2018      | Yearly               | Up to date  |
-| Nursing validation               | NMC      | N/A                 | N/A              | Summer 2018 TBC | Every 3 Years        | In progress |
+| Topic                            | Provider | Participatory Hours | E-Learning Hours | Date        | Renewal       | Status      |
+| :------------------------------- | :------- | :------------------ | :--------------- | :---------- | :------------ | :---------- |
+| Advanced Paediatric Life Support | A+A      | 3                   | 3.5              | 19/01/2018  | Yearly        | Up to date  |
+| Moving and Handling              | TCR      | 3                   | 3.5              | 19/01/2018  | Yearly        | Up to date  |
+| Nursing validation               | NMC      | N/A                 | N/A              | Summer 2018 | Every 3 Years | In progress |
 
 
 

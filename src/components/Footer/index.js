@@ -1,10 +1,16 @@
 import React from 'react';
 import Link from 'gatsby-link';
 
+import FontAwesomeIcon from '@fortawesome/react-fontawesome';
+import brands from '@fortawesome/fontawesome-free-brands';
+import faLinkedIn from '@fortawesome/fontawesome-free-brands/faLinkedIn';
+
 const Footer = () => (
   <footer className="footer">
     <div className="container h-padding h-center">
-      <h3>Georgina Cross</h3>
+      <h3>
+        <Link to="/">Georgina Cross</Link>
+      </h3>
       <ul className="footer__list">
         <li className="footer__list-item">
           <Link to="/" className="footer__item-link">
@@ -32,6 +38,13 @@ const Footer = () => (
           </Link>
         </li>
       </ul>
+      <div className="footer__social">
+        <div className="footer__social-item">
+          <a href="//www.linkedin.com/in/georgina-cross-43aab790/" className="footer__social-link">
+            <FontAwesomeIcon icon={faLinkedIn} />
+          </a>
+        </div>
+      </div>
     </div>
   </footer>
 );
