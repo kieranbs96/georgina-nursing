@@ -16,7 +16,6 @@ title: 'Reflections'
           <h2>Student Year 2015-2018</h2>
         </div>
       </react-tab>
-      <react-tab>Title 2</react-tab>
     </react-tab-list>
     <react-tab-panel>
 <div class="reflection one" id="one">
@@ -107,9 +106,6 @@ title: 'Reflections'
 
 </div>
 </div>
-    </react-tab-panel>
-    <react-tab-panel>
-      <h2>Any content 2</h2>
     </react-tab-panel>
   </react-tabs>
 

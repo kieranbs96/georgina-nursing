@@ -1,10 +1,14 @@
-import React from 'react'
+import React from 'react';
+import Link from 'gatsby-link';
+/* eslint-disable */
 
 const NotFoundPage = () => (
   <div>
-    <h1>NOT FOUND</h1>
-    <p>You just hit a route that doesn&#39;t exist... the sadness.</p>
+    <h1>Uh oh.. page not found</h1>
+    <p>
+      Sorry that page doesn't exist yet! Find out about me by visiting my homepage <Link to="/">by clicking here</Link>
+    </p>
   </div>
-)
+);
 
-export default NotFoundPage
+export default NotFoundPage;

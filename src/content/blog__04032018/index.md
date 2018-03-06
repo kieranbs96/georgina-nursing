@@ -18,7 +18,9 @@ Scarlet Fever once diagnosed should be treated with Penicillin V and the child s
 Reassurance to the parent also needs to take place, as whilst prophylactic antibiotics are needed to reduce the complications that may arise from the infection, ED is not usually the place to receive these. A GP, out of hours GP or SELDOC appointment is most likely more appropriate if the child is well in themselves and do not have any red flag symptoms. I have seen GP and SELDOC referrals to A and E for complications of scarlet fever and at this point presentation to ED is the most appropriate action.
 Read the article of the month: https://www.nursingtimes.net/news/primary-care/unexplained-resurgence-of-scarlet-fever-cases-across-england/7022283.article
 
-Footnotes:
+---
+
+References:
 
 1. https://en.wikipedia.org/wiki/Scarlet_fever
 2. https://www.nhs.uk/conditions/scarlet-fever/
