@@ -1,5 +1,9 @@
 .reflection {
 
+  &s {
+    margin-top:2rem;
+  }
+
   &__content {
 
     h3 {
@@ -11,6 +15,10 @@
 
 .carousel {
   position:relative;
+
+  .flex div {
+    display: flex;
+  }
 
   &__dot-group {
     display: flex;
@@ -61,58 +69,58 @@
   }
 }
 
-.react-tabs {
-  &__tab-list {
-    border-bottom: 1px solid #aaa;
-    margin: 0 0 10px;
-    padding: 0;
+.Collapsible {
+
+  margin-bottom: .2rem;
+
+  & &:last-child {
+    margin-bottom: 3rem;
   }
 
-  &__tab {
-    display: inline-block;
-    border: 1px solid transparent;
-    border-bottom: none;
-    bottom: -1px;
-    position: relative;
-    list-style: none;
-    padding: 6px 12px;
-    cursor: pointer;
-
-    &--selected {
-      background: #fff;
-      border-color: #aaa;
-      color: black;
-      border-radius: 5px 5px 0 0;
-      padding: .6rem 2rem;
-    }
-
-    &--disabled {
-      color: GrayText;
-      cursor: default;
-    }
-
-    &:focus {
-      box-shadow: 0 0 5px hsl(208, 99%, 50%);
-      border-color: hsl(208, 99%, 50%);
-      outline: none;
-
-      &:after {
-        content: "";
-        position: absolute;
-        height: 5px;
-        left: -4px;
-        right: -4px;
-        bottom: -5px;
-        background: #fff;
-      }
-    }
+  &__trigger.is-open + &__contentOuter {
+    border: 1px solid #00344c;
+    box-sizing: border-box;
+    padding: 0 2rem;
   }
 
-  &__tab-panel {
-    display: none;
+  &__trigger {
+    background-color: $color-nmc-pink;
+    padding:1.5rem;
+    width: 100%;
+    color: #fff;
+    display:block;
+    position:relative;
+    transition: all .3s;
 
-    &--selected {
+    &:hover {
+      cursor: pointer;
+    }
+
+
+    &.is-open {
+      background-color: $color-nmc-blue;
+
+     &::after {
+      border-left: 10px solid transparent;
+      border-right: 10px solid transparent;
+      border-top: 10px solid #fff;
+     }
+    }
+
+    &.is-closed::after {
+      border-bottom: 10px solid transparent;
+      border-top: 10px solid transparent;
+      border-left: 10px solid #fff;
+      right: 1rem;
+    }
+
+    &::after {
       display: block;
+      content: "";
+      position: absolute;
+      right: 1.5rem;
+      top: 50%;
+      transform: translateY(-50%);
     }
   }
 }

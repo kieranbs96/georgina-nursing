@@ -1,11 +1,11 @@
 import React from 'react';
 import rehypeReact from 'rehype-react';
-import { Tab, Tabs, TabList, TabPanel } from 'react-tabs';
+import Collapsible from 'react-collapsible';
 import Helmet from 'react-helmet';
 
 const renderAst = new rehypeReact({
   createElement: React.createElement,
-  components: { 'react-tab': Tab, 'react-tabs': Tabs, 'react-tab-list': TabList, 'react-tab-panel': TabPanel },
+  components: { 'react-collapsible': Collapsible },
 }).Compiler;
 
 export default function Template({ data }) {

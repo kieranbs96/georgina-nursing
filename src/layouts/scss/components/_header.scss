@@ -23,6 +23,11 @@
   .container {
     align-items:center;
     justify-content: space-between;
+    flex-direction: column;
+
+    @include tablet {
+      flex-direction: row;
+    }
   }
 }
 
@@ -31,7 +36,11 @@
     list-style: none;
     margin:0;
     padding:0;
-    text-align: right;
+    text-align: center;
+
+    @include tablet {
+      text-align: right;
+    }
   }
 
   &__item {

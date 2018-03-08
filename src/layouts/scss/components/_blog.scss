@@ -54,6 +54,11 @@
 
   &-left {
       flex: 1;
+      margin-right: 0;
+
+      @include desktop {
+        margin-right: 1.5rem;
+      }
   }
 
   }
