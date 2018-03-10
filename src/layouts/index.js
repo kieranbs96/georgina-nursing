@@ -6,6 +6,14 @@ import Header from '../components/Header';
 import Footer from '../components/Footer';
 import Subfooter from '../components/Subfooter';
 
+import faviconApple from '../img/apple-touch-icon.png';
+import favicon32 from '../img/favicon-32x32.png';
+import favicon16 from '../img/favicon-16x16.png';
+import faviconManifest from '../img/site.webmanifest';
+import faviconMask from '../img/safari-pinned-tab.svg';
+import faviconIco from '../img/favicon.ico';
+import faviconXml from '../img/browserconfig.xml';
+
 import './css/normalize.css';
 import './scss/main.scss';
 
@@ -21,7 +29,17 @@ const TemplateWrapper = ({ children }) => (
         },
         { name: 'keywords', content: 'Georgina Cross, Royal College Nursing, RCN, Nurse, Nursing' },
       ]}
-    />
+    >
+      <link rel="apple-touch-icon" sizes="180x180" href={faviconApple} />
+      <link rel="icon" type="image/png" sizes="32x32" href={favicon32} />
+      <link rel="icon" type="image/png" sizes="16x16" href={favicon16} />
+      <link rel="manifest" href={faviconManifest} />
+      <link rel="mask-icon" href={faviconMask} color="#5bbad5" />
+      <link rel="shortcut icon" href={faviconIco} />
+      <meta name="msapplication-TileColor" content="#ffffff" />
+      <meta name="msapplication-config" content={faviconXml} />
+      <meta name="theme-color" content="#ffffff" />
+    </Helmet>
     <Header />
     <hr className="decoration" />
     <section className="content h-padding h-center">{children()}</section>
