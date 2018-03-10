@@ -27,7 +27,8 @@ const TemplateWrapper = ({ children }) => (
         },
         {
           name: 'keywords',
-          content: 'Georgina Cross, Royal College of Nursing, RCN, Nurse, Nursing, KCL, Kings College London',
+          content:
+            'Georgina Cross, Registered Nurse, UK, London, Royal College of Nursing, RCN, Nurse, Nursing, KCL, Kings College London',
         },
       ]}
     >
