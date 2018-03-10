@@ -42,7 +42,9 @@ class index extends Component {
             <p>
               Hello, my name is Georgina and I am a third year nursing student. This e-Portfolio is designed to keep my
               reflective pieces together, track progress such as CPD and obviously prepare me for the daunting NMC
-              revalidation in three years' time.
+              revalidation in three years' time. Spending time in hospital as a child myself I can empathize with those
+              in my care with how scary being in unwell can be. Aspiring to be a children's nurse I aim to gain the
+              skill set to work with family units to get children back home if they can after illness'.
             </p>
             <p> Below is a gallery to keep you entertained amongst enormous collection of work on this site. </p>
 

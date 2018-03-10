@@ -25,7 +25,10 @@ const TemplateWrapper = ({ children }) => (
           content:
             'Georgina Cross is a Nurse registered with the Royal College of Nursing and graduated from Kings College London',
         },
-        { name: 'keywords', content: 'Georgina Cross, Royal College Nursing, RCN, Nurse, Nursing' },
+        {
+          name: 'keywords',
+          content: 'Georgina Cross, Royal College of Nursing, RCN, Nurse, Nursing, KCL, Kings College London',
+        },
       ]}
     >
       <link rel="apple-touch-icon" sizes="180x180" href={faviconApple} />
