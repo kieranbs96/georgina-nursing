@@ -1,6 +1,6 @@
 ---
-path: '/blog/04-03-2018/'
-title: 'Blog - Article of the Month'
+path: '/blog/scarlet-fever-resurgence/'
+title: 'Scarlet Fever Resurgence - Article of the Month'
 attachments:
   - "./scarlet-fever__1.png"
 ---
@@ -40,7 +40,7 @@ References:
 
   ![White Areas on the Tongue of a Child, a symptom of Scarlet Fever](./scarlet-fever__4.png "White Areas on the Tongue of a Child, a symptom of Scarlet Fever")
 
-  <span class="blog__full-article-image-caption">
+  <span class="blog__full-article-image-caption tertiary">
     Figure 2: Scarlet Fever as documented by NHS choices <sup>[2]</sup>
   </span>
 

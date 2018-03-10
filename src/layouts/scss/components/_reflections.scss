@@ -16,8 +16,14 @@
 .carousel {
   position:relative;
 
-  .flex div {
-    display: flex;
+  .flex {
+    div {
+      display: flex;
+      overflow: hidden;
+    }
+    img {
+      flex: 0 0 33%;
+    }
   }
 
   &__dot-group {

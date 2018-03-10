@@ -1,14 +1,18 @@
 .blog {
 
+  &__aotm {
+    border-left: 6px solid $color-rcn-red;
+  }
+
   &__article-list {
     display:flex;
     flex-direction: column;
   }
 
   &__article-preview {
-    background: #f6f6f6;
+    background: #fff;
     padding: 1.5rem;
-    border: 1px solid #929292;
+    box-shadow: 0 2px 6px 0 hsla(0, 0, 0, 0.2);
 
     &:not(:first-child) {
       margin-top:3rem;
@@ -25,7 +29,6 @@
       margin-top: 0.1rem;
     }
     a {
-      color: #333;
       line-height: 1.8;
     }
   }
@@ -55,6 +58,13 @@
   &-left {
       flex: 1;
       margin-right: 0;
+
+      a {
+        text-decoration: none;
+        border-bottom: 1px solid currentColor;
+        color: #014990;
+        padding-bottom: 1px;
+      }
 
       @include desktop {
         margin-right: 1.5rem;
