@@ -30,11 +30,10 @@ const HomeSidebar = () => (
         <li className="home__sidebar-box-skill-item">Evidence Based Practice</li>
         <li className="home__sidebar-box-skill-item">Critical Thinking</li>
         <li className="home__sidebar-box-skill-item">Teamwork</li>
-        <li className="home__sidebar-box-skill-item">a</li>
-        <li className="home__sidebar-box-skill-item">b</li>
-        <li className="home__sidebar-box-skill-item">c</li>
-        <li className="home__sidebar-box-skill-item">d</li>
-        <li className="home__sidebar-box-skill-item">e</li>
+        <li className="home__sidebar-box-skill-item">A-E Nursing Assessment</li>
+        <li className="home__sidebar-box-skill-item">Nursing Process</li>
+        <li className="home__sidebar-box-skill-item">Reflective Working</li>
+        <li className="home__sidebar-box-skill-item">Communication</li>
       </ul>
     </div>
   </div>

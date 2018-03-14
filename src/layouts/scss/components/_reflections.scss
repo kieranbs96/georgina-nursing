@@ -83,6 +83,10 @@
     margin-bottom: 3rem;
   }
 
+  &__contentOuter {
+    padding: 0 2rem;
+  }
+
   &__trigger.is-open + &__contentOuter {
     border: 1px solid #00344c;
     box-sizing: border-box;

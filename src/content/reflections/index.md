@@ -108,16 +108,8 @@ title: 'Reflections'
 </div>
 </react-collapsible>
 
-<react-collapsible trigger="Example">
-  Lorem ipsum set dolor ist
+<react-collapsible trigger="Revalidation Years 2018-2021">
+  Content to come...
 </react-collapsible>
 
-<react-collapsible trigger="Example-:)">
-  Lorem ipsum set dolor ist
-  Lorem ipsum set dolor ist
-  Lorem ipsum set dolor ist
-  Lorem ipsum set dolor ist
-  Lorem ipsum set dolor ist
-  Lorem ipsum set dolor ist
-</react-collapsible>
   </div>

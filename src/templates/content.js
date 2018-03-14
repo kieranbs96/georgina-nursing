@@ -2,10 +2,11 @@ import React from 'react';
 import rehypeReact from 'rehype-react';
 import Collapsible from 'react-collapsible';
 import Helmet from 'react-helmet';
+import Link from 'gatsby-link';
 
 const renderAst = new rehypeReact({
   createElement: React.createElement,
-  components: { 'react-collapsible': Collapsible },
+  components: { 'react-collapsible': Collapsible, 'react-link': Link },
 }).Compiler;
 
 export default function Template({ data }) {
