@@ -6,8 +6,8 @@ const BlogPreviewOne = () => (
   <div className="blog__article-preview blog__aotm">
     <div className="blog__preview-content">
       <div className="blog__preview-left">
-        <h2 className="blog__article-title">Article of the Month (AOTM) - Scarlet Fever resurgence</h2>
-        <h3 className="blog__article-date tertiary">February 2018</h3>
+        <h2 className="blog__article-title">Article of the Month - Scarlet Fever resurgence</h2>
+        <h3 className="blog__article-date tertiary">28th February 2018</h3>
         <p>
           Scarlet Fever, an infectious disease presenting with rash, red cheeks, sore throat, swollen or strawberry
           looking tongue and a fever typically &gt; 39.C <sup>[2]</sup> . It is prominent in nurseries and schools but

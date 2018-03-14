@@ -16,7 +16,7 @@ title: 'Reflections'
 
 ### An event or experience in your professional practice
 
-<react-collapsible trigger="1. Parent complaining about another member of staff – maintaining professional">
+<react-collapsible trigger="1. Parent complaining about another member of staff – maintaining professionalism">
 
   1. **What was the nature of the event or experience in your practice?**
 
@@ -101,6 +101,83 @@ title: 'Reflections'
 
 
 <sup>[1]</sup>  https://www.nmc.org.uk/globalassets/sitedocuments/nmc-publications/nmc-code.pdf
+
+</react-collapsible>
+
+### A piece of practice-related feedback you have received
+
+<react-collapsible trigger="1. De-escalating aggressive parents – maintaining professionalism">
+
+### 1. What was the nature of the event or experience in your practice?
+
+I observed my mentor insert a cannula in a child before her IVABs; the child was due gentamycin and usually had this at home by the outreach team, however she needed a gentamycin blood level. On examination the ante-cubical fossa (ACF) and back of hand was bruised. My mentor and another staff nurse were both taking their time before trying to insert a cannula as she clearly had bruises where prior cannula’s had been. Dad very quickly became inpatient and shouted; ‘just do it’, ‘the veins there I can see it’, ‘what’s taking so long?’, ‘that’s it I want someone who knows what they are doing to do it’, ‘give the needle here I’ll do it’. My mentor and the colleague present both told Dad to calm down, she is bruised and they need to concentrate to get the line in. Dad continued to escalate in aggression.
+
+The doctor present in department came in and said that my mentor should take a break and come back when dad is less irate. My immediate thought was we need to call security as we have a no tolerance policy to violence and abusive language. Whilst my colleagues disagreed on calling security they continued for twenty minutes
+trying to de-escalate dad by equally raising their voices and finally got a line in too.
+
+### 2. What did you learn from this?
+
+Upon reflection with colleagues at my university, we spoke about alternative perhaps more effective methods that could have been used. One option being, to use a whispering voice so dad is attentive of what you are saying and gradually he’ll bring his raised voice down to yours. Similarly, saying we have a zero tolerance policy I must ask you to leave the department if you continue to talk to me like this. There’s the option suggested by the SHO doctor in the department to leave him and say I’ll be back when you’ve calmed down. Finally, there is an option to put your equipment down and let dad rant and just listen to him, don’t respond or interrupt and eventually he’ll realise that he is the reason the procedure is taking so long, and that you can’t concentrate and listen to him shouting at the same time.
+
+### 3. How did you change or improve your practice as a result?
+
+Upon reflection I think I feel a little bit more confident in dealing with aggressive patients and their families and the variety of effective techniques that can be used. Seeing a scenario when perhaps de-escalation could have been done a different way and more effectively I can identify how not to handle an irate parent.
+
+### 4. How is this relevant to the code <sup>[1]</sup>
+
+20.5 treat people in a way that does not take advantage of their vulnerability or cause them upset or distress
+20.6 stay objective and have clear professional boundaries at all times with people in your care (including those who have
+been in your care in the past), their families and carers
+20.7 make sure you do not express your personal beliefs (including political, religious or moral beliefs) to people in an
+inappropriate way
+20.8 act as a role model of professional behaviour for students and newly qualified nurses and midwives to aspire to
+Nursing and Midwifery Council
+20.10 use all forms of spoken, written and digital communication (including social media and networking sites) responsibly,
+
+</react-collapsible>
+
+<react-collapsible trigger="2. Remaining supernumerary – behaving within your competencies">
+
+### 1. What was the nature of the event or experience in your practice?
+
+I was looking after a group of patients under supervision and one patient was due an oral medication. I mentioned it to my mentor twenty minutes before it was due, the five minutes before it was due. At the minutes before it was due she said she was too busy and I’d have to get another colleague to draw it up and administer the medication with me. I asked a colleague whom said give me ten minutes to this NG feed. I offered to do the feed for her and she declined that she’d rather do it. When she drew the medication up with me the medication was now thirty minutes late, the drug being administered was digoxin and she said it should never be given late. At which point I reiterate that as a student I cannot administer medication by myself. The medication was administered under supervision.
+
+### 2. What did you learn from this?
+
+I learn from this that when communicating it is good to give quantifiable facts about the priority. I didn’t press for it to be done urgently because I honestly believed when they said five minutes that it wouldn’t lead to ten twenty thirty minutes etc. I learned that if I am assertive whilst most wards are stretched with staff I should remain in my supernumerary status and act within my competencies. From this I got very flustered as I felt very guilty for administering the medication late. Whereas on reflection I see the systems failures in lack of supervision rather than my own personal failings, as I tried as hard as I could to get a member of staff to assist in administering and legally I needed supervision.
+
+### 3. How did you change or improve your practice as a result?
+
+Next time perhaps I will communicate which drug is due and the importance of it being on time, therefore they know how important I see the task I am asking for help with and get my needs met in the system with appropriate supervision.
+
+### 4. How is this relevant to the code <sup>[1]</sup>
+
+9.4 support students’ and colleagues’ learning to help them develop their professional competence and confidence.
+
+13 Recognise and work within the limits of your competence
+
+</react-collapsible>
+
+<react-collapsible trigger="3. Acting intuitively in a variety of settings – pre-empting resources and being on the ball.">
+
+### 1. What was the nature of the event or experience in your practice?
+
+In the A+E department a patient arrived complaining of diarrhoea and vomiting. Whilst my colleague triaged them I prepared an oral rehydration solution (ORS) after I asked a colleague to prescribe it and filled in their details for a fluid challenge chart. I took this into triage and assisted my colleague with observations and when it came to the end of their triage formalities the ORS was ready made and fluid challenge instructions present for them to take in waiting area and begin the fluid challenge promptly.
+
+### 2. What did you learn from this?
+
+From this I received very positive feedback from my colleagues that I used my initiative and was proactive, pre- empting the resources needed. This is something I will take forward to future placements and throughout my career. I appreciate that working as a team and working intuitively is situation dependent and if other priorities are existing they will come first.
+
+### 3. How did you change or improve your practice as a result?
+
+Here I used my confidence to act on my own initiative using my pre-existing knowledge of the trust procedures. By doing this the patient didn’t breach and was treated effectively in A+E.
+
+### 4. How is this relevant to the code <sup>[1]</sup>
+
+1.4 make sure that any treatment, assistance or care for which you are responsible is delivered without undue delay,
+
+25.1 identify priorities, manage time, staff and resources effectively and deal with risk to make sure that the quality of care or
+service you deliver is maintained and improved, putting the needs of those receiving care or services first,
 
 </react-collapsible>
 
