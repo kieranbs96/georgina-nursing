@@ -1,5 +1,9 @@
 .blog {
 
+  &__normal {
+    border-left: 6px solid $color-rcn-blue;
+  }
+
   &__aotm {
     border-left: 6px solid $color-rcn-red;
   }
