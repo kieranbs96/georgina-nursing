@@ -54,6 +54,12 @@ const Footer = () => (
         <h4>Recent posts</h4>
         <ul className="footer__list">
           <li className="footer__list-item">
+            <Link to="/blog/should-we-depoliticise-the-nhs/" className="footer__item-link">
+              Should we depoliticise the NHS?
+            </Link>
+            <Link to="/blog/amniotic-band-syndrome/" className="footer__item-link">
+              Amniotic Band Syndrome
+            </Link>
             <Link to="/blog/scarlet-fever-resurgence/" className="footer__item-link">
               Scarlet Fever Resurgence
             </Link>
