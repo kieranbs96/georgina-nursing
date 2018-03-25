@@ -57,9 +57,13 @@ const Footer = () => (
             <Link to="/blog/should-we-depoliticise-the-nhs/" className="footer__item-link">
               Should we depoliticise the NHS?
             </Link>
+          </li>
+          <li className="footer__list-item">
             <Link to="/blog/amniotic-band-syndrome/" className="footer__item-link">
               Amniotic Band Syndrome
             </Link>
+          </li>
+          <li className="footer__list-item">
             <Link to="/blog/scarlet-fever-resurgence/" className="footer__item-link">
               Scarlet Fever Resurgence
             </Link>
