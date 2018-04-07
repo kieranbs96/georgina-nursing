@@ -184,6 +184,82 @@ service you deliver is maintained and improved, putting the needs of those recei
 
 </react-collapsible>
 
+### An instance of your CPD
+
+<react-collapsible trigger="1. Use of DALYs and QALYs in healthcare">
+
+### 1. What was the nature of the event or experience in your practice?
+
+I attended a seminar based on Disability-Adjusted Life Years (DALYs) and Quality-Adjusted Life Years (QALYs) and how these shape the funding each disease or condition is allocated in the NHS.  This gave me a whole new perspective on the way treatments for specific cases are prioritised and how cuts are made.
+
+QALYs cannot be gained. Once the quality of life is lost there is no getting it back. Whereas with DALYs, DALYs can be gained. The DALY system operates by using a maximum age of 82.5 years old. The x-axis representing years and y- axis representing disability or quality of life depending if its QALY or DALY you are looking at. If a child was to lose a leg at five years old, in a developed country a shaded square in the top right corner would be shaded in, so they had no disability until the age of 5, and now they are let’s say 80% not disabled. But they can never get that amputated limb back so they remain at 80% until their 82.5 years on the axis. The shaded 20% from 5 years old is the cost to the government for the child only having one leg. If they child gets a prosthetic leg that costs less than his lifetime of not working because he only had one leg, the government could justify paying for this prosthetic. The DALY now increases from 80 to 95% and this means the child will live a pretty much normal life. This is often not the case.
+
+For example, if the child lost their leg in the developing world then they wouldn’t have access to prosthetics, so the cost would have doubled to include flights and fittings etc. Perhaps a member of family has to stay at home to look after this child as he cannot go to school because he cannot commute. This put the family out of work affecting the parents QALYs which they cannot gain back. Whilst his prosthetic in the developed world is seen as a small hurdle to overcome it drastically affects the QALY of a life in the developing world.
+
+Similarly, neonates are given every inch of funding possible because no matter how they save the neonate they have 82.5 years to contribute via tax to the economy and it is this life that is so precious. Whereas if someone died at 60 years old the healthcare costs mean that they cannot contribute 22.5 years via tax to the economy but they also are not burdening the system with NHS costs for the diseases they have.
+
+The WHO determines DALYs and they allocate each condition a certain DALY and QALY and the condition of course has to be known and around long enough to assign a well-educated DALY and QALY. The risk of success in full recovery, resources used and guaranteed success elsewhere in the world is what determines the QALY and DALY.
+
+But of course there are syndromes without a name (SWAN), that children are diagnosed with as last resort. What QALYs and DALYs are they allocated? And how can we predict what we do not know?
+
+### 2. What did you learn from this?
+
+I learnt that whilst some conditions are given more financial resources and support than others it is the WHO whom allocates DALYs and QALYs to try and numerically justify each pound spent. Whilst the system seems flawed from our perspective the decision makers perhaps think the reductionist QALY and DALY formula can help make the tough decisions that must be made with the finite resources the NHS has.
+
+### 3. How did you change or improve your practice as a result?
+
+I think I will share my knowledge about QALYs and DALYs with my peers to educate them on how budgets are made and accrued down to every condition or every decision about treatment. Sharing this makes me hopeful that a better most just system will come into place in the future.
+
+### 4. How is this relevant to the code<sup>[1]</sup>
+
+Code: 9. Share your skills, knowledge and experience for the benefit of people receiving care and your colleagues
+
+</react-collapsible>
+
+
+<react-collapsible trigger="2. Brainstem death testing use and organ donation">
+
+### 1. What was the nature of the event or experience in your practice?
+
+I attended a seminar led by the local organ donation team to learn about brain stem death. They shared with me that 1 in 5 members of the public don’t think brain stem death exists despite it being by definition one of three causes of death, followed by cardiorespiratory and cellular.
+
+### 2. What did you learn from this?
+
+Increased ICP can cause coning or tonsiloherniation whereby the brain stem shifts down on to the spinal column. The brain stem has three important roles, homeostasis, sleep and alertness. When a child is a prolonged non responsive state the child must be observed for more time than it takes for the sedatives to be cleared from the system. If a child is brainstem death, once the machines are removed they will not breath leading to their heart stopping.
+
+Whilst this is a distressing time for the family, transparency of what is occurring and objective measures that indicate brainstem death is vital. Clinicians should allow parents the opportunity to watch the brain stem testing whilst also making them aware of the reflexes that may appear to show signs of life which are just reflexes like sitting up. Every family should have organ donation discussed with them when there is a question about brain stem death.
+
+### 3. How did you change or improve your practice as a result?
+
+Having greater awareness around this topic, having not seen any prolonged deterioration it is useful to know the processes that must occur for legal brainstem death to be determined and how this can be translated to parents.
+
+### 4. How is this relevant to the code<sup>[1]</sup>
+
+5.5 share with people, their families and their carers, as far as the law allows, the information they want or need to know about their health, care and ongoing treatment sensitively and in a way they can understand.
+
+7.3 use a range of verbal and non-verbal communication methods, and consider cultural sensitivities, to better understand and respond to people’s personal and health needs
+
+</react-collapsible>
+
+<react-collapsible trigger="3. Use of hoists in the workplace – a reflection on mandatory training">
+
+### 1. What was the nature of the event or experience in your practice?
+
+I had my mandatory training update form moving and handling and recognised multiple learning points about hoists, that I needed a refresher on.
+
+### 2. What did you learn from this?
+
+Firstly, I learnt that the breaks should never be on unless it is being stored. This is because the hoist needs to find its own centre of gravity. The second point being to always check the battery is charged. Having been on a ward where I am the only colleague comfortable in using such a device it was very useful to have a refresher.
+
+### 3. How did you change or improve your practice as a result?
+
+Now i will check the battery before taking the hoist to my bed space and never put the brakes on unless storing it.
+### 4. How is this relevant to the code<sup>[1]</sup>
+
+6.1 make sure that any information or advice given is evidencebased, including information relating to using any healthcare products or services, and 6.2 maintain the knowledge and skills you need for safe and effective practice.
+
+</react-collapsible>
+
 </div>
 </div>
 </react-collapsible>
